@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="202cf717-3003-413b-b11e-f8dfe3812a22" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -17,8 +16,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="437">
-              <caret line="135" column="97" lean-forward="false" selection-start-line="135" selection-start-column="97" selection-end-line="135" selection-end-column="97" />
+            <state relative-caret-position="63">
+              <caret line="101" column="93" lean-forward="false" selection-start-line="101" selection-start-column="93" selection-end-line="101" selection-end-column="93" />
               <folding />
             </state>
           </provider>
@@ -150,7 +149,28 @@
       <option name="project" value="LOCAL" />
       <updated>1508872120360</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="modified index">
+      <created>1508872403503</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1508872403504</updated>
+    </task>
+    <task id="LOCAL-00005" summary="modified index">
+      <created>1508872478899</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1508872478899</updated>
+    </task>
+    <task id="LOCAL-00006" summary="modified index">
+      <created>1508872653962</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1508872653962</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -200,8 +220,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="437">
-          <caret line="135" column="97" lean-forward="false" selection-start-line="135" selection-start-column="97" selection-end-line="135" selection-end-column="97" />
+        <state relative-caret-position="63">
+          <caret line="101" column="93" lean-forward="false" selection-start-line="101" selection-start-column="93" selection-end-line="101" selection-end-column="93" />
           <folding />
         </state>
       </provider>
